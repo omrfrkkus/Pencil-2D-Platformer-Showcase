@@ -18,9 +18,9 @@ Building a game entirely solo requires not just creativity, but strict software 
 * **Commercial Release Pipeline:** Structuring the build process, memory optimization, and deployment pipeline for an upcoming commercial release across PC and Mobile platforms.
 
 <p align="center">
-  <img src="media/screenshot_1.jpg" width="45%" alt="Gameplay Screenshot 1" />
+  <img src="media/screenshot_1.jpg" width="48%" alt="Gameplay Screenshot 1" />
   &nbsp;
-  <img src="media/screenshot_2.jpg" width="45%" alt="Gameplay Screenshot 2" />
+  <img src="media/screenshot_2.jpg" width="48%" alt="Gameplay Screenshot 2" />
 </p>
 
 ---
@@ -31,9 +31,9 @@ Building a game entirely solo requires not just creativity, but strict software 
 * **Physics & State Management:** Programmed custom 2D kinematic physics for tight, lag-free platforming, utilizing state machines to manage player animations and interactive puzzle elements.
 
 <p align="center">
-  <img src="media/screenshot_3.jpg" width="45%" alt="Gameplay Screenshot 3" />
+  <img src="media/screenshot_3.jpg" width="48%" alt="Gameplay Screenshot 3" />
   &nbsp;
-  <img src="media/screenshot_4.jpg" width="45%" alt="Gameplay Screenshot 4" />
+  <img src="media/screenshot_4.jpg" width="48%" alt="Gameplay Screenshot 4" />
 </p>
 
 ---
