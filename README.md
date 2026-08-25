@@ -1,7 +1,7 @@
 # ✏️ Pencil — 2D Platformer Game
 
 <p align="center">
-  <img src="media/pencil_demo.gif" width="700" alt="Pencil Gameplay Demo" />
+  <img src="media/pencil.gif" width="700" alt="Pencil Gameplay Demo" />
 </p>
 
 > **Note:** As this game is scheduled for commercial publication on major storefronts (Steam, GOG, Google Play), the core source code is kept private. This repository serves as a technical and visual showcase of the project.
